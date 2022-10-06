@@ -1,0 +1,4 @@
+In Python you can write functional code as well as object-oriented code.
+In Python you can create dictionaries.
+In Python you can create classes.
+In Python you can open and read files save on a computer.
